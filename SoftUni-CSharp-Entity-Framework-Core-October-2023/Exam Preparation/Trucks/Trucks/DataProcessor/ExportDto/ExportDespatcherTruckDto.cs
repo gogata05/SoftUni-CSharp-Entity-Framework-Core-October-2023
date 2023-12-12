@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Xml.Serialization;
+namespace Trucks.DataProcessor.ExportDto
+{
+    [XmlType("Truck")]
+    public class ExportDespatcherTruckDto
+    {
+        [XmlElement("RegistrationNumber")]
+        public string RegistrationNumber { get; set; }
+
+        [XmlElement("Make")]
+        public string Make { get; set; }
+    }
+}
+//< Truck >
+//    < RegistrationNumber > CT2462BX </ RegistrationNumber >
+//    < Make > Scania </ Make >

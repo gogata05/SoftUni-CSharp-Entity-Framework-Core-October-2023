@@ -1,0 +1,66 @@
+[
+  {
+    "Id": 3,
+    "Name": "Benji Ballefant",
+    "CellNumber": 104,
+    "Officers": [
+      {
+        "OfficerName": "Rica Muscott",
+        "Department": "ArtificialIntelligence"
+      },
+      {
+        "OfficerName": "Rica Muscott",
+        "Department": "ArtificialIntelligence"
+      }
+    ],
+    "TotalOfficerSalary": 4678.16
+  },
+  {
+    "Id": 7,
+    "Name": "Garland Swepstone",
+    "CellNumber": 401,
+    "Officers": [
+      {
+        "OfficerName": "Linet Bagster",
+        "Department": "Blockchain"
+      },
+      {
+        "OfficerName": "Linet Bagster",
+        "Department": "Blockchain"
+      },
+      {
+        "OfficerName": "Linet Bagster",
+        "Department": "Blockchain"
+      }
+    ],
+    "TotalOfficerSalary": 9788.37
+  },
+  {
+    "Id": 5,
+    "Name": "Lenette Jorn",
+    "CellNumber": 403,
+    "Officers": [
+      {
+        "OfficerName": "Theo Carde",
+        "Department": "Blockchain"
+      },
+      {
+        "OfficerName": "Theo Carde",
+        "Department": "Blockchain"
+      }
+    ],
+    "TotalOfficerSalary": 6950.88
+  },
+  {
+    "Id": 1,
+    "Name": "Melanie Simonich",
+    "CellNumber": 105,
+    "Officers": [
+      {
+        "OfficerName": "Minerva Holl",
+        "Department": "StackOverflow"
+      }
+    ],
+    "TotalOfficerSalary": 2582.55
+  }
+]
