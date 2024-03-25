@@ -7,7 +7,7 @@
 Welcome to the Entity Framework Core course! This course provides an in-depth exploration of working with the Object-Relational Mapping (ORM) technology: Entity Framework Core (EF Core). EF Core is the standard ORM for C# and .NET Core applications. It allows mapping between a relational database and an object-oriented model using both "database first" and "code first" approaches. EF Core offers a powerful object-oriented API for querying databases and performing CRUD operations.
 
 #### Skills You Will Gain
-
+ 
 - Building a database architecture
 - Using the Code First approach
 - Using the Database First approach
